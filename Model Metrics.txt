@@ -1,0 +1,16 @@
+Model Metrics:
+
+Random Forest Regressor
+Best Hyperparameters:
+n_estimators: 900
+min_samples_split: 5
+min_samples_leaf: 1
+max_depth: 60
+bootstrap: True
+
+
+Performance Metrics:
+Root Mean Squared Error: 288290.6234495329
+Mean Absolute Error: 157226.32305117117
+R-squared: 0.7467326534983358
+
